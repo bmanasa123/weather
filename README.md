@@ -1,33 +1,28 @@
+# weather
 
-# Weather
-
-The Awake  is a simple web application that allows users to retrieve weather information for a specific city. 
-It uses HTML, CSS, JavaScript, and the  OpenWeatherMap API and is deployed using Netlify.to provide real-time weather data to users.
+Users of the straightforward web application weather can obtain meteorological data for a certain city. 
+To give users access to real-time weather information, it is delivered via Netlify and makes use of HTML, CSS, JavaScript, and the OpenWeatherMap API.
 
 
-## Features
-- Displays current temperature, weather description (including Humidity, Pressure, Windspeed, sunrise, sunset), and location.
-- It also shows night and day temperatures for the respective 7 days of the week.
-- Responsive design for both desktop and mobile devices.
+## Features: Shows location, sunrise and sunset times, pressure, wind speed, humidity, and current temperature.
+- It also displays the temperature during the day and night for each of the seven days of the week.
+- Design that is responsive for mobile and desktop platforms.
 
 ## Demo
 
-You can try the Awake Weather Web application by visiting the [live demo] (https://stunning-eclair-f9833c.netlify.app/ )
+Visit the [live demo] at https://stunning-eclair-f9833c.netlify.app/ to experience the Awake Weather Web application.
 
 
-## Installation and Usage
+## Setup and Application
 
-1. Clone the repository:
+1. Make a repository clone:
    
-  https://github.com/bmanasa123/weather
+  Weather at https://github.com/bmanasa123
   
 
 ## API Key
-To use the OpenWeatherMap API for weather data, you need to obtain an API key from the OpenAI website. (https://openweathermap.org/api )
-Replace 'YOUR_OPENAI_API_KEY' in the script.js file with your actual API key.
+You must get an API key from the OpenAI website in order to access the OpenWeatherMap API for meteorological data. the openweathermap.org/api website
+Change the 'YOUR_OPENAI_API_KEY' to
 
 ## Acknowledgements
 Weather data is provided by the OpenWeatherMap API. (https://openweathermap.org/api/one-call-3)
-
-
-
